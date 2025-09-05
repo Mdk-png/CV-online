@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #323b4c;
+}
+.section-title {
+    border-bottom: 2px solid #323b4c;
+    display: inline-block;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+.centrado {
+    width: 70%;
+    margin-top: 1%;
+}
+
+.bg-principal {
+    background-color: #323b4c;
+}
+
+.badge-lg {
+    font-size: 1.1rem;   
+    padding: 0.6em 1em;
+  }
